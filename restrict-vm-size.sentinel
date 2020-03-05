@@ -1,5 +1,5 @@
 # This policy uses the Sentinel tfplan import to require that
-# all Azure VMs have vm sizes from an allowed list
+# all Azure VMs have vm sizes from an allowed list. The list of allowed_vm_sizes = ["Standard_A0"]
 
 ##### Imports #####
 
